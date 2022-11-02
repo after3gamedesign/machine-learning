@@ -1,0 +1,31 @@
+  11/2/2022 
+   Isobel
+ 
+   What does my idea do?
+
+ My idea was to create a machine app that could help solve a daily problem. That problem is stealing. Stealing is a big problem that affects people a lot.
+
+   What are the materials?
+
+ The materials used are a electronic or piece of technology with teachable machine and glitch.me.
+
+   What is my process?
+
+ First get your electronic and turn it on. You may need to log in to save your progress.
+
+ Second you need to log onto teachable machine and click on image model. There will be two options. Click on standard image model.
+
+ Third prepare examples of stealing. You could act out stealing or draw someone stealing on paper. Those are your examples.These will be what the computer will use to know what stealing looks like. 
+ You will also need some pictures of items not being stolen. These will be what the computer uses to know when things aren't being stolen.
+
+ Fourth you need to name each class or example. Click on where it says Class 1 and type in the name of that class.
+
+ Fifth you need to press webcam. If it asks you to allow camera press allow. if you don't you will not be able to make the app.
+
+ Sixth press Hold To Record and start showing your examples of stealing to the camera. You may need multiple people for this project. You need to hold on to Hold To Record to take many photos many once.
+
+ Seventh you need to repeat steps four, five, and six for the rest of the classes.
+
+ Then you can press Train Model and wait for the information to be processed. It may take a while but do not switch tabs or the information will not load.
+
+ Finally once the model is trained you may test it out. If you want to save it then you must press Export Model and fill out the information.
