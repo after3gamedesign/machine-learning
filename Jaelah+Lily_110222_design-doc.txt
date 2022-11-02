@@ -1,0 +1,31 @@
+
+What IS my idea???
+
+Make the largest Teachable Machine camera project possible in the time span of 2 hours.
+
+What DOES my idea do?
+
+It recognizes things and shows how much percent of each of the options there are.
+
+Materials:
+-Google Chrome
+-The camera on top of the computer
+-An example of all the things that you want the AI to recognize
+-Glitch.me
+
+Process:
+1.Pull up Teachable Machine on Google Chrome
+2.Make sure the camera is open and not on the wrong way
+3.Label your classes
+4.Get your example and put it in front of the camera
+5.Take enough pictures of your example
+6.When you are done, train your model
+7.Export your model IF you would like to
+8.Put it on Glitch.me
+9.Now your done! (We're done with this now!)
+
+By,
+Jaelah and Lily :)Yay!(:
+
+
+
