@@ -93,4 +93,4 @@ t.forward(100)
 t.speed(24)
 t.left(90)
 t.left(50)
-t.forward(100)f
+t.forward(100)
